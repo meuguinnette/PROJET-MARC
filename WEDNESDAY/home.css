@@ -1,0 +1,52 @@
+.onglet{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    border: 0.1px solid;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    height: 30px;
+    width: 500px;
+    background: transparent;
+    border-radius: 40px;
+    box-shadow: 1px 1px 5px #888;
+}
+.btn-box{
+    margin-left: 15px;
+    width: 400px;
+    height: 30px;
+    outline: none;
+    background: transparent;
+    font-size: 15px;
+    border: none;
+}
+.loup{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.micro{float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
+    .google-box{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .logo{
+        padding-bottom: 300px;
+    }
+    .lien{
+        padding-top: 400px;
+        padding-left: 550px;
+        
+    }
+    .btn{
+        width: 110px;
+        text-align: center;
+        color: black;
+    }
+    
