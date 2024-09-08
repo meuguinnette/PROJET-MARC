@@ -1,0 +1,20 @@
+.masa{
+    
+    color:   #717171;
+    padding-bottom: 40px;
+    font-family: 'Trebuchet MS', 'Times New Roman', serif;
+}
+.masa h2{
+      text-transform: uppercase;
+    text-align: center;
+      
+}
+html {
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  body {
+    background-color: #F2F2F2;  
+    text-align: center;  
+  }
